@@ -1,0 +1,12 @@
+  
+ My self  swarna
+I hv  total  4 yrs of exp on IT intry
+ and  my relivant exp 3.2 yrs  on azure cloud platform
+ Coming to my roles and respbilty 
+* As a azure administator  I am responsible for managing the infrastucture and supporting the infrastructre part.
+* Basically  my day starts with checking  mails and  tickets based on priority level i worked on that .
+*and also monitoring the  services like checking the application performance and resources health.
+* and i'm doing patches to windows and linux servers and taking the backups and sending the reports
+
+  Based on the clint requirement we also create resources like vnets, subnets and vms are else  we expand the disk size and attach new disk   
+  * After the  deployment  i validate whthere the service is properly configured or not . Like under the respective vnet and subnet
